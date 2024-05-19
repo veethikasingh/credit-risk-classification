@@ -1,4 +1,4 @@
-Overview of the Analysis
+**Overview of the Analysis**
 
 **Purpose**
 * The purpose of this activity is to train and evaluate machine learning models based on loan risk. The activity use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers and classify the credit risk predictions.
@@ -26,14 +26,14 @@ Overview of the Analysis
 * confusion_matrix is used to create the confusion matrix
 * classification_report is used to get details on the 2 models for accuracy, recall and precision
 
-Results
+**Results**
 
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Training Model :
     * Description of Training Model  Accuracy, Precision, and Recall scores.
 
-Training Model
+Training Model (refer image- training)
 
  
 
@@ -50,7 +50,7 @@ Training Model
 
 
 
-Testing Model
+Testing Model(refer image -testing)
 
  
 •	This model also does a good job in predicting both the healthy and the high-risk loans as can be inferred from the high accuracy score of 99% . 
@@ -66,5 +66,7 @@ For any lending service company or credit grantor, the correct identification of
 This method gives better accuracy and recall scores which are crucial decision metrics for a lending service company.
 
 I would recommend this model.
+
+
 
 

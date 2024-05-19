@@ -38,9 +38,11 @@ Training Model (refer image- training)
  
 
 
-•	This model does a good job in predicting both the healthy and the high-risk loans as can be inferred from the high accuracy score of 99% . However, we have to take into consideration that the data is imbalanced as 96.77% of the target values (75036 out of 77536) are for the healthy loans.
-•	This model has a precision score of 100% (Precision = 1.00 ) for the healthy loans and 85% (Precision = 0.85 ) for the high-risk loans. This again can be attributed to the imbalance in the data. The precision scores imply that the healthy loans were classified correctly as positive 100% of the times. However, for the high-risk loans, the classification was correct only 85% of the times.
-•	This model has a recall score of 99% for the healthy loans and 90% for the high-risk loans. The scores imply that for all the instances where the loans were actually healthy, 99% of the times they were classified correctly. However, for all the instances where the loans were actually high-risk, they were classified correctly 90% of the time.
+* This model does a good job in predicting both the healthy and the high-risk loans as can be inferred from the high accuracy score of 99% . However, we have to take into consideration that the data is imbalanced as 96.77% of the target values (75036 out of 77536) are for the healthy loans.
+	
+* This model has a precision score of 100% (Precision = 1.00 ) for the healthy loans and 85% (Precision = 0.85 ) for the high-risk loans. This again can be attributed to the imbalance in the data. The precision scores imply that the healthy loans were classified correctly as positive 100% of the times. However, for the high-risk loans, the classification was correct only 85% of the times.
+	
+* This model has a recall score of 99% for the healthy loans and 90% for the high-risk loans. The scores imply that for all the instances where the loans were actually healthy, 99% of the times they were classified correctly. However, for all the instances where the loans were actually high-risk, they were classified correctly 90% of the time.
 
 
 
@@ -53,9 +55,11 @@ Training Model (refer image- training)
 Testing Model(refer image -testing)
 
  
-•	This model also does a good job in predicting both the healthy and the high-risk loans as can be inferred from the high accuracy score of 99% . 
-•	This model has a precision score of 100% (Precision = 1.00 ) for the healthy loans and 87% (Precision = 0.87) for the high-risk loans. The precision scores imply that the healthy loans were classified correctly as positive 100% of the times. However, for the high-risk loans, the classification was correct only 87% of the times.
-•	This model has a recall score of 100% for the healthy loans and 92% for the high-risk loans. The scores imply that for all the instances where the loans were actually healthy 100 % of the time or when they were high-risk, 92% of the times they were classified correctly.
+* This model also does a good job in predicting both the healthy and the high-risk loans as can be inferred from the high accuracy score of 99% . 
+
+* This model has a precision score of 100% (Precision = 1.00 ) for the healthy loans and 87% (Precision = 0.87) for the high-risk loans. The precision scores imply that the healthy loans were classified correctly as positive 100% of the times. However, for the high-risk loans, the classification was correct only 87% of the times.
+
+*This model has a recall score of 100% for the healthy loans and 92% for the high-risk loans. The scores imply that for all the instances where the loans were actually healthy 100 % of the time or when they were high-risk, 92% of the times they were classified correctly.
 
 **Summary**
 

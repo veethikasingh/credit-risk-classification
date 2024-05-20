@@ -33,7 +33,7 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 * Machine Learning Training Model :
     * Description of Training Model  Accuracy, Precision, and Recall scores.
 
-Training Model (refer image- training)
+Training Model (refer image- Training)
 
  
 
